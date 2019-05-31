@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="Paint.net" description="edits images" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\paint.net\PaintDotNet.exe" />
+      <option name="PARAMETERS" value="$FilePath$" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files/paint.net" />
+    </exec>
+  </tool>
+  <tool name="Atom" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\Pacho\AppData\Local\atom\app-1.10.2\atom.exe" />
+      <option name="PARAMETERS" value="$FilePath$" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/Pacho/AppData/Local/atom/app-1.10.2" />
+    </exec>
+  </tool>
+</toolSet>

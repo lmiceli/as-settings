@@ -1,0 +1,38 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*store*.xml</mask>
+    <mask>*shop*.png</mask>
+    <mask>*Util*.kt</mask>
+    <mask>*.kt</mask>
+    <mask>repository</mask>
+    <mask>*che*.xml</mask>
+    <mask>*tick*.xml</mask>
+    <mask>*selector*.xml</mask>
+    <mask>*edit*.xml</mask>
+    <mask>brand_vars.xml</mask>
+    <mask>.xml</mask>
+    <mask>mspot*.xml</mask>
+    <mask>*card*.xml</mask>
+    <mask>*fragment*.xml</mask>
+    <mask>*.gradle</mask>
+    <mask>style*</mask>
+    <mask>Navi*</mask>
+    <mask>*Mspot*.java</mask>
+    <mask>*registe*</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+  </component>
+</application>

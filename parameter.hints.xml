@@ -1,0 +1,14 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="es.sdos.sdosproject.ui.product.activity.ProductListActivity.startActivity(activity,category,isDeepLink,showOnlySales,showOnlyNewCollection,finishCurrentActivityOnSuccess)" />
+      </blacklist>
+      <blacklist language="Kotlin">
+        <added pattern="es.sdos.sdosproject.data.bo.CartItemBO(id,sku,quantity,style)" />
+      </blacklist>
+    </blacklists>
+    <option id="SHOW_LAMBDA_IMPLICIT_PARAMETER_RECEIVER" value="false" />
+    <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
+  </component>
+</application>
