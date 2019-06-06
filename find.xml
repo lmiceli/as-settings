@@ -13,7 +13,6 @@
     <mask>*store*.xml</mask>
     <mask>*shop*.png</mask>
     <mask>*Util*.kt</mask>
-    <mask>*.kt</mask>
     <mask>repository</mask>
     <mask>*che*.xml</mask>
     <mask>*tick*.xml</mask>
@@ -32,5 +31,6 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>R.java</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
