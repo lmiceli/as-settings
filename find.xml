@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -28,9 +29,9 @@
     <mask>Navi*</mask>
     <mask>*Mspot*.java</mask>
     <mask>*registe*</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>R.java</mask>
     <mask>*.kt</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
