@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Activity.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -32,7 +32,7 @@
     <mask>*.java</mask>
     <mask>R.java</mask>
     <mask>*.kt</mask>
-    <mask>*.xml</mask>
     <mask>*Activity.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
