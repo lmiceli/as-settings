@@ -52,6 +52,11 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+    <keyboard-shortcut first-keystroke="num_lock" />
+  </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
