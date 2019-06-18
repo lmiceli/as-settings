@@ -16,7 +16,7 @@
     <EXCLUDED_PACKAGE NAME="org.mockito.internal.util.collections" />
     <EXCLUDED_PACKAGE NAME="org.mockito.internal.verification.VerificationModeFactory" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="Square copy">
+  <component name="DaemonCodeAnalyzerSettings" profile="Square">
     <option name="SHOW_ADD_IMPORT_HINTS" value="false" />
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
