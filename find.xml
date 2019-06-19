@@ -27,11 +27,11 @@
     <mask>Navi*</mask>
     <mask>*Mspot*.java</mask>
     <mask>*registe*</mask>
-    <mask>*.java</mask>
     <mask>R.java</mask>
     <mask>*.kt</mask>
     <mask>*Activity.java</mask>
     <mask>*.xml</mask>
     <mask>*return*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
