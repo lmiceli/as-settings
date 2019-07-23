@@ -1,9 +1,18 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
-    <filemarks />
-    <jumps />
+    <filemarks>
+      <file name="$USER_HOME$/repo/core/imageloader/src/main/java/sdosproject/sdos/es/imageloader/ImageLoader.kt" timestamp="1563873158936">
+        <mark key="'" line="11" column="24" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="23" column="40" filename="$USER_HOME$/repo/core/imageloader/src/main/java/sdosproject/sdos/es/imageloader/ImageLoader.kt" />
+      <jump line="13" column="17" filename="$USER_HOME$/repo/core/imageloader/src/main/java/sdosproject/sdos/es/imageloader/ImageLoader.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/repo/core/imageloader/src/main/java/sdosproject/sdos/es/imageloader/ImageLoader.kt" />
+      <jump line="11" column="24" filename="$USER_HOME$/repo/core/imageloader/src/main/java/sdosproject/sdos/es/imageloader/ImageLoader.kt" />
+    </jumps>
     <registers />
     <search>
       <last-dir>0</last-dir>

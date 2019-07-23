@@ -47,6 +47,7 @@
   <action id="Kotlin.RunScratch" />
   <action id="NextTab" />
   <action id="PreviousTab" />
+  <action id="RecentChangedFiles" />
   <action id="RecentFiles" />
   <action id="RerunTests" />
   <action id="SplitVertically">
@@ -55,7 +56,7 @@
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="ctrl tab" />
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
-    <keyboard-shortcut first-keystroke="num_lock" />
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="alt m" />
@@ -74,6 +75,9 @@
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="VcsHistory.ShowAllAffected" />
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="num_lock" />
+  </action>
   <action id="com.developerphil.adbidea.action.AdbIdeaQuickList">
     <keyboard-shortcut first-keystroke="shift ctrl alt a" />
     <keyboard-shortcut first-keystroke="shift alt a" />
