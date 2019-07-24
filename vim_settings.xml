@@ -1,27 +1,16 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
-    <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/repo/core/imageloader/src/main/java/sdosproject/sdos/es/imageloader/ImageLoader.kt" timestamp="1563873158936">
-        <mark key="'" line="11" column="24" />
-      </file>
-      <file name="$USER_HOME$/repo/core/app/src/pullandbear/java/es/sdos/sdosproject/ui/order/presenter/PullMapDetailPresenter.java" timestamp="1563879884890">
-        <mark key="[" line="106" column="6" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="23" column="40" filename="$USER_HOME$/repo/core/imageloader/src/main/java/sdosproject/sdos/es/imageloader/ImageLoader.kt" />
-      <jump line="13" column="17" filename="$USER_HOME$/repo/core/imageloader/src/main/java/sdosproject/sdos/es/imageloader/ImageLoader.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/repo/core/imageloader/src/main/java/sdosproject/sdos/es/imageloader/ImageLoader.kt" />
-      <jump line="11" column="24" filename="$USER_HOME$/repo/core/imageloader/src/main/java/sdosproject/sdos/es/imageloader/ImageLoader.kt" />
-    </jumps>
-    <registers />
-    <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history />
-    <shortcut-conflicts />
+    <state version="5" enabled="false" />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+      <template-selectmode enabled="false" />
+    </notifications>
   </component>
 </application>
