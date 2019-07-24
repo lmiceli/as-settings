@@ -48,7 +48,9 @@
   <action id="NextTab" />
   <action id="PreviousTab" />
   <action id="RecentChangedFiles" />
-  <action id="RecentFiles" />
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
   <action id="RerunTests" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
@@ -56,7 +58,7 @@
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="ctrl tab" />
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
-    <keyboard-shortcut first-keystroke="shift ctrl e" />
+    <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="alt m" />
