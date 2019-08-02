@@ -41,9 +41,7 @@
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
-  <action id="Images.EditExternally">
-    <keyboard-shortcut first-keystroke="num_lock" />
-  </action>
+  <action id="Images.EditExternally" />
   <action id="IntroduceActionsGroup">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
@@ -71,6 +69,9 @@
   </action>
   <action id="ToggleMainMenuAction">
     <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="Tool_External Tools_VIM">
+    <keyboard-shortcut first-keystroke="num_lock" />
   </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
