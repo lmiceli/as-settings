@@ -41,6 +41,9 @@
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
+  <action id="Images.EditExternally">
+    <keyboard-shortcut first-keystroke="num_lock" />
+  </action>
   <action id="IntroduceActionsGroup">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
@@ -77,9 +80,7 @@
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="VcsHistory.ShowAllAffected" />
-  <action id="VimPluginToggle">
-    <keyboard-shortcut first-keystroke="num_lock" />
-  </action>
+  <action id="VimPluginToggle" />
   <action id="com.developerphil.adbidea.action.AdbIdeaQuickList">
     <keyboard-shortcut first-keystroke="shift ctrl alt a" />
     <keyboard-shortcut first-keystroke="shift alt a" />
