@@ -76,6 +76,7 @@
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="UpdateRunningApplication" />
   <action id="Vcs.Log.ShowAllAffected" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
@@ -86,6 +87,12 @@
   </action>
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="num_lock" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
   <action id="com.developerphil.adbidea.action.AdbIdeaQuickList">
     <keyboard-shortcut first-keystroke="shift ctrl alt a" />
