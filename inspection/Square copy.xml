@@ -4,15 +4,12 @@
   <inspection_tool class="AlwaysNilVariable" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="AssociatedTypeMismatch" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CallDealloc" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="Destructure" enabled="true" level="INFO" enabled_by_default="true" />
-  <inspection_tool class="DirectUseOfResultType" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="DuplicateAttribute" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="FallthruInSwitchStatement" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="FromClosedRangeMigration" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="HidesClassScope" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ImplementationHasNoInterface" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="InterfaceHasNoImplementation" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="KDocMissingDocumentation" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="KeyValueCodingInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="LastArgumentMustBeNull" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MethodIsLaterInTheScope" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -32,11 +29,7 @@
   <inspection_tool class="OverriddenTypeMismatch" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PrivateCategoryShouldBeNearImplementation" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PropertyAndIvarTypeMismatch" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="PublicApiImplicitType" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="RedundantNotNullExtensionReceiverOfInline" enabled="true" level="INFORMATION" enabled_by_default="true" />
-  <inspection_tool class="Reformat" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="ReleasingOfAssignProperties" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="ReplaceCollectionCountWithSize" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="SetterForReadonlyProperty" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
     <option name="processCode" value="true" />
