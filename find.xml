@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -29,9 +30,9 @@
     <mask>*Activity.java</mask>
     <mask>*return*.xml</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*Fragment.kt</mask>
     <mask>*.kt</mask>
     <mask>build.gradle</mask>
+    <mask>*.java</mask>
   </component>
 </application>
