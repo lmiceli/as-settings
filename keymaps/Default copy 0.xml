@@ -70,6 +70,9 @@
   <action id="ToggleMainMenuAction">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
+  <action id="TogglePowerSave">
+    <keyboard-shortcut first-keystroke="shift alt p" />
+  </action>
   <action id="Tool_External Tools_VIM">
     <keyboard-shortcut first-keystroke="shift alt v" />
   </action>
