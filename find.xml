@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.js</mask>
+    <option name="FILE_MASK" value="*View.kt" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -33,5 +33,6 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>build.gradle</mask>
+    <mask>*View.kt</mask>
   </component>
 </application>
