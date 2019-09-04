@@ -28,10 +28,10 @@
     <mask>*Activity.java</mask>
     <mask>*return*.xml</mask>
     <mask>*Fragment.kt</mask>
-    <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>build.gradle</mask>
     <mask>*View.kt</mask>
     <mask>*.java</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
