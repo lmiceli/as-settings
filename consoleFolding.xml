@@ -1,0 +1,10 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="I/SurfaceControl: nativeRelease nativeObject" />
+        <option value="W: Value is too long; discarded. Value kind, name, value length: param, userABTestGroups" />
+      </list>
+    </option>
+  </component>
+</application>
