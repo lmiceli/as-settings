@@ -6,6 +6,7 @@
       <mapping ext="c_bak2" type="PLAIN_TEXT" />
       <mapping ext="c_left" type="PLAIN_TEXT" />
       <mapping ext="c_bak" type="PLAIN_TEXT" />
+      <mapping ext="graphqlsss" type="PLAIN_TEXT" />
       <mapping ext="c_right" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
