@@ -5,17 +5,18 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="not_generated" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.kts</mask>
     <mask>*.graphql</mask>
     <mask>AndroidManifest.xml</mask>
     <mask>*Dto.kt</mask>
     <mask>*_nlogin</mask>
     <mask>*GET*</mask>
-    <mask>*.kt</mask>
     <mask>*login*</mask>
     <mask>*.xml</mask>
     <mask>*AdapterTest.kt</mask>
     <mask>*Page.kt</mask>
     <mask>*Adapter.kt</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
