@@ -96,6 +96,9 @@
     <keyboard-shortcut first-keystroke="f11" />
   </action>
   <action id="UpdateRunningApplication" />
+  <action id="ViewToolButtons">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
