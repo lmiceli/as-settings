@@ -1,6 +1,6 @@
 <application>
   <component name="com.github.awayo.thewireseries.services.WiredDataState">
-    <option name="localIP" value="192.168.1.62" />
+    <option name="localIP" value="192.168.1.143" />
     <option name="wiremockJar" value="$USER_HOME$/repositories/android-app/wiremock/wiremock-standalone-2.23.2.jar" />
     <option name="wiremockPort" value="9999" />
     <option name="wiremockProperties" value="$USER_HOME$/repositories/android-app/wiremock.properties" />
