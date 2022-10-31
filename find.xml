@@ -12,11 +12,11 @@
     <mask>*_nlogin</mask>
     <mask>*GET*</mask>
     <mask>*login*</mask>
-    <mask>*.xml</mask>
     <mask>*AdapterTest.kt</mask>
     <mask>*Page.kt</mask>
     <mask>*Adapter.kt</mask>
     <mask>*.kt</mask>
     <mask>*ViewModel.kt</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
