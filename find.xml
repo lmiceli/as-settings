@@ -17,7 +17,7 @@
     <mask>*Page.kt</mask>
     <mask>*Adapter.kt</mask>
     <mask>*.kt</mask>
-    <mask>*ViewModel.kt</mask>
     <mask>*.xml</mask>
+    <mask>*ViewModel.kt</mask>
   </component>
 </application>
