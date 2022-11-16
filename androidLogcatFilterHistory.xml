@@ -5,5 +5,12 @@
         <option value="package:mine" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine update" />
+    <option name="nonFavorites">
+      <list>
+        <option value="package:mine update" />
+        <option value="package:mine upda" />
+      </list>
+    </option>
   </component>
 </application>
