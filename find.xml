@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="not_generated" />
-    <mask>*.kts</mask>
+    <option name="FILE_MASK" value="*.kts" />
     <mask>*.graphql</mask>
     <mask>AndroidManifest.xml</mask>
     <mask>*Dto.kt</mask>
@@ -18,5 +18,6 @@
     <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>*ViewModel.kt</mask>
+    <mask>*.kts</mask>
   </component>
 </application>
