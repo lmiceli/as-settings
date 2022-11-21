@@ -3,9 +3,10 @@
     <option name="addedPositive">
       <list>
         <option value="I/SurfaceControl: nativeRelease nativeObject" />
+        <option value="LeakCanary is currently disabled" />
         <option value="ViewPostIme key 0" />
         <option value="W: Value is too long; discarded. Value kind, name, value length: param, userABTestGroups" />
-        <option value="LeakCanary is currently disabled" />
+        <option value="glUtilsParamSize: unknow param 0x" />
       </list>
     </option>
   </component>
