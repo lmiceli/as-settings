@@ -6,6 +6,9 @@
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
+  <action id="AndroidLogConsole.ClearLogCatAction">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
