@@ -21,5 +21,6 @@
     <mask>*.kt</mask>
     <mask>build.gradle.kts</mask>
     <mask>*.xml</mask>
+    <mask>*Domain.kt</mask>
   </component>
 </application>
