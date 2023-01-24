@@ -22,5 +22,6 @@
     <mask>*.xml</mask>
     <mask>*Domain.kt</mask>
     <mask>*.kt</mask>
+    <mask>*.json</mask>
   </component>
 </application>
