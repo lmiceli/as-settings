@@ -7,6 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.graphql</mask>
     <mask>AndroidManifest.xml</mask>
     <mask>*Dto.kt</mask>
@@ -19,9 +20,9 @@
     <mask>*ViewModel.kt</mask>
     <mask>*.kts</mask>
     <mask>build.gradle.kts</mask>
-    <mask>*.xml</mask>
     <mask>*Domain.kt</mask>
-    <mask>*.kt</mask>
     <mask>*.json</mask>
+    <mask>*.xml</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
