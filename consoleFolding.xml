@@ -2,15 +2,18 @@
   <component name="ConsoleFoldingSettings">
     <option name="addedPositive">
       <list>
+        <option value="chatty" />
         <option value="glUtilsParamSize: unknow param 0x" />
         <option value="GooglePlayServicesNotAvailableException" />
         <option value="I/SurfaceControl: nativeRelease nativeObject" />
         <option value="IdlingResourceRegistry: All idling resources are idle" />
         <option value="LeakCanary is currently disabled" />
+        <option value="perfetto" />
+        <option value="Requesting GAID again as it was failing" />
         <option value="V/APM_AudioPolicyManager" />
         <option value="ViewPostIme key 0" />
         <option value="W: Value is too long; discarded. Value kind, name, value length: param, userABTestGroups" />
-        <option value="Requesting GAID again as it was failing" />
+        <option value="system_server" />
       </list>
     </option>
   </component>
