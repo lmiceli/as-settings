@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="TestServerDispatcher" />
     <option name="nonFavorites">
       <list>
+        <option value="TestServerDispatcher" />
+        <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="level:error " />
         <option value="TSV" />
@@ -11,7 +13,6 @@
         <option value="package:mine TSV" />
         <option value="package:mine mock" />
         <option value="package:mine page" />
-        <option value="package:mine " />
         <option value="package:mine ///" />
         <option value="package:mine /// updat" />
         <option value="package:mine //" />
