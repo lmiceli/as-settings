@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="TestServerDispatcher" />
+    <option name="mostRecentlyUsed" value="package: a" />
     <option name="nonFavorites">
       <list>
-        <option value="TestServerDispatcher" />
+        <option value="package: a" />
         <option value="package:mine " />
+        <option value="TestServerDispatcher" />
         <option value="package:mine level:error " />
         <option value="level:error " />
         <option value="TSV" />
