@@ -40,7 +40,6 @@
     <pattern pattern="\bxxx\b.*" />
     <pattern pattern="todox" />
     <filter name="mine xxx">
-      <pattern index="3" />
       <pattern index="4" />
       <pattern index="2" />
     </filter>
